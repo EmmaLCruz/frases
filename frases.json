@@ -1,0 +1,456 @@
+{
+    "frases": [
+        {
+            "frase": "La vida no se trata de recibir y tener, se trata de dar y ser.",
+            "autor": "Kevin Kruse"
+        },
+        {
+            "frase": "Lo que la mente del hombre puede concebir y creer, puede lograrse.",
+            "autor": "Napoleon Hill"
+        },
+        {
+            "frase": "Seguir cuando crees que no puedes más, es lo que te hace diferente a los demás.",
+            "autor": "Rocky Balboa"
+        },
+        {
+            "frase": "Esfuérzate no por ser un éxito, sino por ser valioso.",
+            "autor": "Albert Einstein"
+        },
+        {
+            "frase": "Dos caminos se bifurcaban en un bosque y yo, yo tomé el menos transitado, eso ha hecho toda la diferencia.",
+            "autor": "Robert Frost"
+        },
+        {
+            "frase": "Atribuyo mi éxito a esto: nunca dí ni tomé ninguna excusa.",
+            "autor": "Florence Nightingale"
+        },
+        {
+            "frase": "He fallado más de 9000 tiros en mi carrera. He perdido casi 300 juegos. 26 veces confiaron en mí para realizar el tiro ganador y fallé. He fallado una y otra vez en mi vida. Y es por eso que tuve éxito.",
+            "autor": "Michael Jordan"
+        },
+        {
+            "frase": "Lo más difícil es la decisión de actuar, lo demás no es más que pura tenacidad.",
+            "autor": "Amelia Earhart"
+        },
+        {
+            "frase": "Fallarás el 100% de las cosas que no intentes.",
+            "autor": "Wayne Gretzky"
+        },
+        {
+            "frase": "No puedes vencer a alguien que nunca se rinde.",
+            "autor": "Babe Ruth"
+        },
+        {
+            "frase": "No hay plan B para la pasión. Haz lo que amas y el éxito llegará.",
+            "autor": "Chris Gardner"
+        },
+        {
+            "frase": "Establecer una meta es el punto de partida de todo logro.",
+            "autor": "W. Clement Stone"
+        },
+        {
+            "frase": "La vida es lo que te sucede mientras estás ocupado haciendo otros planes.",
+            "autor": "John Lennon"
+        },
+        {
+            "frase": "Nos convertimos en lo que pensamos.",
+            "autor": "Earl Nightingale"
+        },
+        {
+            "frase": "Dentro de 20 años estarás más decepcionado por las cosas que no hiciste que por las que hiciste. Así que suelta amarras, navega lejos de puertos seguros, atrapa los vientos alisios. Explora. Sueña. Descubre.",
+            "autor": "Mark Twain"
+        },
+        {
+            "frase": "La vida es 10% lo que te sucede y 90% el cómo reaccionas a eso.",
+            "autor": "Charles Swindoll"
+        },
+        {
+            "frase": "La forma más común en la que la gente renuncia a su poder es creyendo que no tienen ninguno.",
+            "autor": "Alicia Walker"
+        },
+        {
+            "frase": "El mejor momento para plantar un árbol fue hace veinte años, el segundo mejor momento es ahora.",
+            "autor": "Proverbio chino"
+        },
+        {
+            "frase": "Una vida sin reflexión no merece la pena ser vivida.",
+            "autor": "Sócrates"
+        },
+        {
+            "frase": "Tu tiempo es limitado, no lo desperdicies viviendo el sueño de otra persona.",
+            "autor": "Steve Jobs"
+        },
+        {
+            "frase": "Los ganadores nunca se rinden y los que se rinden, nunca ganan.",
+            "autor": "Vince Lombardi"
+        },
+        {
+            "frase": "El único lugar donde el éxito viene antes del trabajo es en el diccionario.",
+            "autor": "Vince Lombardi"
+        },
+        {
+            "frase": "En los grandes intentos incluso fallar es glorioso.",
+            "autor": "Vince Lombardi"
+        },
+        {
+            "frase": "La mejor venganza es un gran éxito.",
+            "autor": "Frank Sinatra"
+        },
+        {
+            "frase": "El fracaso es el condimento que le da sabor a tu éxito.",
+            "autor": "Truman Capote"
+        },
+        {
+            "frase": "No soy producto de mis circunstancias, soy producto de mis decisiones.",
+            "autor": "Stephen Covey"
+        },
+        {
+            "frase": "Todos los niños nacen artistas. El problema es cómo seguir siendo artistas al crecer.",
+            "autor": "Pablo Picasso"
+        },
+        {
+            "frase": "He aprendido que la gente olvidará lo que dijiste y lo que hiciste. Pero nunca olvidarán lo que les hiciste sentir.",
+            "autor": "Maya Angelou"
+        },
+        {
+            "frase": "El futuro tiene muchos nombres. Para los débiles es lo inalcanzable. Para los temerosos, lo desconocido. Para los valientes es la oportunidad.",
+            "autor": "Jim Rohn"
+        },
+        {
+            "frase": "O diriges el día o el día te dirige a tí.",
+            "autor": "Jim Rohn"
+        },
+        {
+            "frase": "La mayoría de la gente gasta más tiempo y energías hablando de los problemas que afrontándolos.",
+            "autor": "Henry Ford"
+        },
+        {
+            "frase": "Los obstáculos son esas cosas espantosas que ves cuando quitas la vista de tus metas.",
+            "autor": "Henry Ford"
+        },
+        {
+            "frase": "Los dos dás más importantes de nuestras vidas son el día en el que nacemos y el día en el que descubrimos por qué lo hicimos.",
+            "autor": "Mark Twain"
+        },
+        {
+            "frase": "Todo aquello que puedas hacer o sueñes hacer, comiénzalo ahora. La audacia, en sí misma, contiene genialidad, poder y magia.",
+            "autor": "Johann Wolfgang Von Goethe"
+        },
+        {
+            "frase": "La gente suele decir que la motivación no es duradera. Bueno, tampoco un baño. Por eso recomiendo hacer ambas cosas todos los días.",
+            "autor": "Zig Ziglar"
+        },
+        {
+            "frase": "La vida está compuesta en gran parte por sueños. Hay que unirlos a la acción.",
+            "autor": "Anaïs Nin"
+        },
+        {
+            "frase": "La vida se contrae y expande en proporción directa a nuestro coraje.",
+            "autor": "Anaïs Nin"
+        },
+        {
+            "frase": "Jamás hay que dejar apagar el fuego de tu alma, sino avivarlo.",
+            "autor": "Vincent van Gogh"
+        },
+        {
+            "frase": "Hay que trabajar y atreverse si realmente se quiere vivir.",
+            "autor": "Vincent van Gogh"
+        },
+        {
+            "frase": "Si escuchas una voz en tu interior que dice 'no puedes pintar', entonces pinta por todos los medios y esa voz será silenciada.",
+            "autor": "Vincent van Gogh"
+        },
+        {
+            "frase": "La paciencia es amarga, pero su fruto es dulce.",
+            "autor": "Aristóteles"
+        },
+        {
+            "frase": "Sólo hay una manera de evitar las críticas: no hacer nada, no decir nada y no ser nada.",
+            "autor": "Aristóteles"
+        },
+        {
+            "frase": "La confianza en sí mismo es el primer secreto del éxito.",
+            "autor": "Ralph Waldo Emerson"
+        },
+        {
+            "frase": "La única persona que estás destinado a ser es la persona que decides ser.",
+            "autor": "Ralph Waldo Emerson"
+        },
+        {
+            "frase": "Ve con confianza en la dirección de tus sueños. Vive la vida como la has imaginado.",
+            "autor": "Henry David Thoreau"
+        },
+        {
+            "frase": "Pocas cosas pueden ayudar a un individuo más que ponerle responsabilidades y hacerle saber que se confía en él.",
+            "autor": "Booker T. Washington"
+        },
+        {
+            "frase": "Existen ciertas cosas que atraen tu atención, pero busca sólo aquellas que te atrapen el corazón.",
+            "autor": "Antiguo proverbio indio"
+        },
+        {
+            "frase": "Si crees que puedes, ya estás a medio camino.",
+            "autor": "Theodore Roosevelt"
+        },
+        {
+            "frase": "El único hombre que nunca comete errores es el hombre que nunca hace nada.",
+            "autor": "Theodore Roosevelt"
+        },
+        {
+            "frase": "Todo lo que siempre has querido está al otro lado del miedo.",
+            "autor": "George Addair"
+        },
+        {
+            "frase": "Podemos perdonar fácilmente a un niño que tiene miedo de la oscuridad, la verdadera tragedia de la vida es cuando los hombres tienen miedo de la luz.",
+            "autor": "Platón"
+        },
+        {
+            "frase": "Enseña a tu lengua a decir 'No sé', y progresarás.",
+            "autor": "Maimónides"
+        },
+        {
+            "frase": "Empieza donde estés, utiliza lo que tengas, haz lo que puedas.",
+            "autor": "Arthur Ashe"
+        },
+        {
+            "frase": "El secreto de la vida es caer siete veces y levantarse ocho.",
+            "autor": "Proverbio japonés"
+        },
+        {
+            "frase": "Cuando una puerta hacia la felicidad se cierra, otra se abre. Pero a menudo miramos tanto tiempo hacia la puerta cerrada que no vemos aquella que se ha abierto para nosotros.",
+            "autor": "Helen Keller"
+        },
+        {
+            "frase": "El optimismo es la fe que conduce al éxito. Nada puede hacerse sin esperanza y confianza.",
+            "autor": "Helen Keller"
+        },
+        {
+            "frase": "Todo tiene belleza, pero no todos pueden verla.",
+            "autor": "Confucio"
+        },
+        {
+            "frase": "Qué maravilloso es que no tengamos que esperar ni un minuto para empezar a cambiar el mundo.",
+            "autor": "Ana Frank"
+        },
+        {
+            "frase": "Cuando dejo ir lo que soy, me convierto en lo que podría ser. Cuando dejo ir lo que tengo, recibo lo que necesito.",
+            "autor": "Lao Tsé"
+        },
+        {
+            "frase": "La vida no se mide por las veces que respiras, sino por los momentos que te dejan sin aliento.",
+            "autor": "Maya Angelou"
+        },
+        {
+            "frase": "La felicidad no es algo hecho, proviene de tus propias acciones.",
+            "autor": "Dalai Lama"
+        },
+        {
+            "frase": "El líderazgo es hacer mejor a los demás gracias a tu presencia y dejar el impacto en ellos durante tu ausencia.",
+            "autor": "Sheryl Sandberg"
+        },
+        {
+            "frase": "Si te ofrecen un asiento en un cohete no preguntes qué asiento. Solo súbete.",
+            "autor": "Sheryl Sandberg"
+        },
+        {
+            "frase": "Primero, ten un ideal práctico claro y definido; Una meta, un objetivo. Segundo, ten los medios necesarios para lograr tus fines; Sabiduría, dinero, materiales y métodos. En tercer lugar, ajusta todos tus medios para ese fin.",
+            "autor": "Aristóteles"
+        },
+        {
+            "frase": "Si el viento no está a tu favor, entonces toma los remos.",
+            "autor": "Proverbio látino"
+        },
+        {
+            "frase": "Debemos creer que estamos dotados para hacer algo y que ese algo, cueste lo que cueste, hay que lograrlo.",
+            "autor": "Marie Curie"
+        },
+        {
+            "frase": "Muchos de nosotros no vivimos nuestros sueños porque vivimos nuestros miedos.",
+            "autor": "Les Brown"
+        },
+        {
+            "frase": "Los desafíos son los que hacen que la vida sea interesante y superarlos es lo que hace a la vida significativa.",
+            "autor": "Joshua J. Marine"
+        },
+        {
+            "frase": "La excelencia es hacer algo común de una manera poco común.",
+            "autor": "Booker T. Washington"
+        },
+        {
+            "frase": "He estado impresionado con la urgencia del hacer. Saber no es suficiente, debemos aplicar. Estar dispuesto no es suficiente, debemos hacer.",
+            "autor": "Leonardo da Vinci"
+        },
+        {
+            "frase": "Las limitaciones solo viven en nuestras mentes, si usamos nuestra imaginación. nuestras posibilidades se vuelven ilimitadas.",
+            "autor": "Jamie Paolinetti"
+        },
+        {
+            "frase": "Tomas tu vida en tus propias manos y ¿qué es lo que pasa? Algo terrible, ya no hay nadie a quien culpar.",
+            "autor": "Erica Jong"
+        },
+        {
+            "frase": "¿Qué es el dinero? Un hombre es exitoso cuando se levanta por la mañana, y se acuesta en la noche, y en medio del día hace lo que le gusta.",
+            "autor": "Bob Dylan"
+        },
+        {
+            "frase": "Las batallas que cuentan no son las de medallas de oro. Las luchas dentro de ti, las batallas invisibles dentro de todos nosotros, esas son las que importan.",
+            "autor": "Jesse Owens"
+        },
+        {
+            "frase": "Tus hijos no tendrán éxito gracias a lo que hayas hecho por ellos, sino gracias a lo que les hayas enseñado a hacer por si mismos.",
+            "autor": "Ann Landers"
+        },
+        {
+            "frase": "Si puedes ver lo que tienes en la vida, siempre tendrás más. Si miras lo que no tienes, nunca tendrás suficiente.",
+            "autor": "Oprah Winfrey"
+        },
+        {
+            "frase": "Cuando todo parece ir en tu contra, recuerda que el avión despega con el viento en contra, no a favor.",
+            "autor": "Henry Ford"
+        },
+        {
+            "frase": "Es tu lugar en el mundo; es tu vida. Ve y haz todo lo que puedas con ella, y haz de ella la vida que deseas vivir.",
+            "autor": "Mae Jemison"
+        },
+        {
+            "frase": "Lo que empieza en cólera acaba en vergüenza.",
+            "autor": "Benjamin Franklin"
+        },
+        {
+            "frase": "La felicidad humana generalmente no se logra con grandes golpes de suerte, que pueden ocurrir pocas veces, sino con pequeñas cosas que ocurren todos los días.",
+            "autor": "Benjamin Franklin"
+        },
+        {
+            "frase": "Sé amable con todos, sociable con muchos, íntimo con pocos, amigo de uno y enemigo de nadie.",
+            "autor": "Benjamin Franklin"
+        },
+        {
+            "frase": "No fallé la prueba, solo descubrí 100 maneras de hacerlo mal.",
+            "autor": "Benjamin Franklin"
+        },
+        {
+            "frase": "Una persona que nunca cometió un error, nunca intentó algo nuevo.",
+            "autor": "Albert Einstein"
+        },
+        {
+            "frase": "La gente que dice que no se puede hacer, no debería interrumpir a quienes lo están haciendo.",
+            "autor": "Proverbio chino"
+        },
+        {
+            "frase": "No hay embotellamientos en el camino del esfuerzo extra.",
+            "autor": "Roger Staubach"
+        },
+        {
+            "frase": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+            "autor": "George Eliot"
+        },
+        {
+            "frase": "Prefiero morir de pasión que de aburrimiento.",
+            "autor": "Vincent van Gogh"
+        },
+        {
+            "frase": "Si puedes soñarlo, puedes alcanzarlo.",
+            "autor": "Zig Ziglar"
+        },
+        {
+            "frase": "Si no trabajas por tus sueños, alguien te contratará para que trabajes por los suyos.",
+            "autor": "Steve Jobs"
+        },
+        {
+            "frase": "La única forma de hacer un gran trabajo, es amando lo que haces.",
+            "autor": "Steve Jobs"
+        },
+        {
+            "frase": "Un hombre verdaderamente rico es aquel cuyos hijos corren a sus brazos aún cuando sus manos están vacías.",
+            "autor": "Anónimo"
+        },
+        {
+            "frase": "Si quieres que tus hijos sean exitosos, pasa el doble de tiempo con ellos, y gasta en ellos la mitad del dinero.",
+            "autor": "Abigail Van Buren"
+        },
+        {
+            "frase": "La educacíon cuesta dinero, como también la ignorancia.",
+            "autor": "Sir Claus Moser"
+        },
+        {
+            "frase": "He aprendido a lo largo de los años que cuando uno se decide, disminuye el temor, saber lo que hay que hacer elimina el miedo.",
+            "autor": "Rosa Parks"
+        },
+        {
+            "frase": "Sueña en grande y atrévete a fallar.",
+            "autor": "Norman Vaughan"
+        },
+        {
+            "frase": "Nuestras vidas empiezan a terminar el día que guardamos silencio sobre las cosas que importan.",
+            "autor": "Martin Luther King"
+        },
+        {
+            "frase": "Si no hay acción detrás de una decisión, no has decidido nada.",
+            "autor": "Tony Robbins"
+        },
+        {
+            "frase": "La forma en la que nos comunicamos con los demás y con nosotros mismos determina la calidad de nuestras vidas.",
+            "autor": "Tony Robbins"
+        },
+        {
+            "frase": "Soñar, después de todo, es una forma de planificación.",
+            "autor": "Gloria Steinem"
+        },
+        {
+            "frase": "No hay atajos para ningún lugar al que valga la pena ir.",
+            "autor": "Beverly Sills"
+        },
+        {
+            "frase": "Puedes estar decepcionado si fracasas, pero estás condenado si no lo intentas.",
+            "autor": "Beverly Sills"
+        },
+        {
+            "frase": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+            "autor": "Eleanor Roosevelt"
+        },
+        {
+            "frase": "La vida es lo que tú haces de ella. Siempre lo ha sido y siempre lo será.",
+            "autor": "Abuela Moses"
+        },
+        {
+            "frase": "Nunca olvides que nadie puede hacerte sentir inferior sin tu permiso.",
+            "autor": "Eleanor Roosevelt"
+        },
+        {
+            "frase": "La pregunta no es quién me lo va a permitir, sino quién va a detenerme.",
+            "autor": "Ayn Rand"
+        },
+        {
+            "frase": "Si cambias tus pensamientos, cambiarás tu mundo.",
+            "autor": "Norman Vincent Peale"
+        },
+        {
+            "frase": "Escribe algo que valga la pena leer, o haz algo que valga la pena escribir.",
+            "autor": "Benjamin Franklin"
+        },
+        {
+            "frase": "Cualquier persona que no crea en los milagros no es realista.",
+            "autor": "Audrey Hepburn"
+        },
+        {
+            "frase": "Nada es imposible, la misma palabra lo dice 'soy posible'(del inglés 'I'm possible').",
+            "autor": "Audrey Hepburn"
+        },
+        {
+            "frase": "No sueñes con el éxito, trabaja para lograrlo.",
+            "autor": "Anónimo"
+        },
+        {
+            "frase": "No tengas miedo de fallar, ten miedo de no intentar.",
+            "autor": "Anónimo"
+        },
+        {
+            "frase": "Si no sabes por dónde empezar, empieza por sonreír.",
+            "autor": "Anónimo"
+        },
+        {
+            "frase": "Cuanto más trabajas, más difícil es rendirse.",
+            "autor":"Vince Lombardi"
+        }
+    ]
+    }
